@@ -16,7 +16,7 @@ vehicle_points = []
 direction_points = []
 
 # Path to the video file
-path = "videos/Traffic Lights/tl6.mp4"
+path = "video_data/Both/test5.mp4"
 
 # Create a new window named 'FIRST FRAME' for displaying the first video frame
 cv.namedWindow('Unified Frame', cv.WINDOW_NORMAL)
